@@ -24,5 +24,5 @@ module.exports = {
     extensions: ['.ts', '.js'],
   },
   target: 'node',
-  mode: 'production',
+  mode: 'development',
 };

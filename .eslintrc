@@ -26,6 +26,13 @@
         "@typescript-eslint/explicit-module-boundary-types": "off",
         "@typescript-eslint/no-explicit-any": "off",
         "arrow-body-style": "off",
-        "camelcase": "off"
+        "camelcase": "warn",
+        "no-continue": "off",
+        "operator-linebreak": "off",
+        "no-debugger": "off",
+        "lines-between-class-members": "off",
+        "no-underscore-dangle": "off",
+        "max-classes-per-file": "off",
+        "no-param-reassign": "off"
     }
 }
