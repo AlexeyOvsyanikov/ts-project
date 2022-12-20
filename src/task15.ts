@@ -45,10 +45,6 @@ function getSum(coins: number[]): number {
     return acc + current;
   });
 
-  for (let i = 1; i <= 9; i++) {
-    if(){}
-  }
-
   return sum;
 }
 
